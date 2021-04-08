@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Hi, I'm Phạm Thị Minh Thư
+🌱 I’m currently learning Backend
 <!--
 **phamthiminhthu/phamthiminhthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
